@@ -232,3 +232,7 @@ bundle exec jekyll serve
 ---
 
 이상으로 Ubuntu 22.04와 Mac OS 기준으로 Chirpy Theme을 이용하여 Github blog를 만드는 방법을 정리하였다.
+
+
+## 참고
+[Chirpy 테마로 Github 블로그 만들기](https://jason9288.github.io/posts/github_blog_1/)
