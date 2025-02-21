@@ -1,5 +1,5 @@
 ---
-title: "Git Submodules 이해 및 일반적인 문제 해결"
+title: "Understanding Git Submodules and Common Issues"
 date : '2025-02-21'
 categories: [git]
 tags: [git, submodule]
@@ -16,7 +16,7 @@ Git Submodule은 여러 장점이 있지만, 개인적으로는 관련된 reposi
 하지만 새로운 Submodule을 추가하거나 기존 Submodule을 업데이트할 때, 여러 가지 문제가 발생할 수 있다. 
 예를 들면, Submodule 디렉터리가 비어 있는 경우가 있다. 이러한 문제를 자주 경험한 후, 이를 정리하여 기록하는 것이 좋겠다 생각하여 이번에 정리하게 되었다.
 
-## Submodule 포함하여 Repository Clone하기
+## Repository Clone including Submodule
 
 Submodule이 포함된 repository를 clone할 때는, 처음부터 Submodule까지 가져오면 좋다. 아래 명령어를 사용하면 됨:
 
