@@ -1,5 +1,11 @@
 how to customize github chirpy theme blog
 
+많은 부분은 
+
+https://jason9288.github.io/posts/github_blog_4/
+
+이 블로그의 시리즈를 보면 된다 몇가지 추가적인 사항을 이 페이지에 적어둔다
+
 sidebar나 profile등의 색깔을 바꿀때에는 
 _sass/themes/_dark.scss
 에서 바꾸면 된다.

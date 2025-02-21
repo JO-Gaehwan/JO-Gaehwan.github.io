@@ -1,15 +1,13 @@
 ---
 title : Making Chirpy Theme Github blog
 date : '2025-02-18'
-categories : [Tools]
+categories : [tools]
 tags : [chirpy, github, blog, git, gitblog]
 ---
 
-이 문서는 Ubuntu 22.04와 Mac OS 기준으로 Chirpy Theme을 이용하여 Github blog를 구축하는 방법을 설명한다. Chirpy Theme은 Ruby 3.1 이상이 필요하므로, rbenv라는 Ruby 버전 관리 도구로 Ruby를 설치한다.
+이 Page에서는 Ubuntu 22.04 기준으로 Chirpy Theme을 이용하여 Github blog를 구축하는 방법을 설명한다. 
 
 ---
-
-## Ubuntu 22.04 기준
 
 ### 1. 필수 패키지 설치
 
@@ -21,6 +19,8 @@ sudo apt install -y git curl autoconf bison build-essential libssl-dev libyaml-d
 ```
 
 ### 2. rbenv 및 ruby-build 설치
+
+Chirpy Theme은 Ruby 3.1 이상이 필요하므로, rbenv라는 Ruby 버전 관리 도구로 Ruby를 설치한다.
 
 1. **rbenv 클론 및 환경변수 설정 (Bash 기준):**
 
