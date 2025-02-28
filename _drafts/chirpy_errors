@@ -11,3 +11,15 @@ bundle exec htmlproofer _site \
 https://drj9812.github.io/posts/a-tag-is-missing-a-reference-error/
 
 ---
+
+
+giscus 등록하면서 giscus.html에 에러가 발생하였었다.
+
+
+{% comment %}
+https://github.com/giscus/giscus/tree/main/locales 
+{% endcomment %}
+
+이렇게 바꾸니까 해결됨
+
+

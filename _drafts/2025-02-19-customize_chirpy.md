@@ -32,3 +32,13 @@ _sass/themes/_dark.scss
 _sass/layout/_sidebar.scss
 
 에서 조절 가능하다.
+
+---
+giscus로 comment feature 작업하였다.
+config와 giscus.html을 변경해서 작업완료하였다.
+
+---
+google analytics등록함
+참고: https://jason9288.github.io/posts/github_blog_4/
+
+---
